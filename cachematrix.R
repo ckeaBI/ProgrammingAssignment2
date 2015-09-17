@@ -1,7 +1,7 @@
 ## These functions are to fulfull the requirements of Programming in R
 ## Assignment 2. 
 
-## Create a "matrix", That contains a function to 
+## Create matrix containing function to 
 ##   - set value of matrix
 ##   - get value of matrix
 
